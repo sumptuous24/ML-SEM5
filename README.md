@@ -1,4 +1,4 @@
-# DIisaster tweet! SHOULD YOU BE WORRIED?
+# Disaster tweet! SHOULD YOU BE WORRIED?
 
 The computer or the software you use should have the datasets given in the data folder of this repository. We'll be using Google Colab.
 
